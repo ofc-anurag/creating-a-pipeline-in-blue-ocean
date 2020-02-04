@@ -8,7 +8,4 @@ pipeline {
     }
 
   }
-  environment {
-    CI = 'true'
-  }
 }
